@@ -1,0 +1,396 @@
+                            Test count: 0                   
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.005               
+
+Raw Apriori
+C1's length:  77
+compare counts:  5550
+compare counts:  56911
+compare counts:  148778
+compare counts:  159886
+compare counts:  98259
+compare counts:  46048
+compare counts:  20232
+compare counts:  8276
+compare counts:  2676
+compare counts:  601
+compare counts:  81
+compare counts:  4
+                               Time(s): 1092.5788725060002  
+           number of frequent itemsets: 71856               
+
+Optimized Apriori
+C1's length:  77
+compare counts:  5550
+compare counts:  44246
+compare counts:  72585
+compare counts:  67850
+compare counts:  48107
+compare counts:  29465
+compare counts:  16098
+compare counts:  7354
+compare counts:  2536
+compare counts:  590
+compare counts:  81
+compare counts:  4
+                               Time(s): 294.2503220860001   
+           number of frequent itemsets: 71856               
+
+
+
+                            Test count: 1             
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.007               
+
+Raw Apriori
+C1's length:  77
+compare counts:  5402
+Ck's length:  2701
+compare counts:  44138
+Ck's length:  15755
+compare counts:  92575
+Ck's length:  14857
+compare counts:  79078
+Ck's length:  9879
+compare counts:  39780
+Ck's length:  5695
+compare counts:  16268
+Ck's length:  3156
+compare counts:  6887
+Ck's length:  1526
+compare counts:  2728
+Ck's length:  551
+compare counts:  830
+Ck's length:  132
+compare counts:  169
+Ck's length:  18
+compare counts:  19
+Ck's length:  1
+compare counts:  0
+Ck's length:  0
+                               Time(s): 277.27026220700003  
+           number of frequent itemsets: 36086               
+
+Optimized Apriori
+C1's length:  77
+compare counts:  5402
+CK's length:  2701
+compare counts:  32947
+CK's length:  15755
+compare counts:  41579
+CK's length:  14855
+compare counts:  33759
+CK's length:  9878
+compare counts:  21282
+CK's length:  5695
+compare counts:  12109
+CK's length:  3156
+compare counts:  6250
+CK's length:  1526
+compare counts:  2629
+CK's length:  551
+compare counts:  813
+CK's length:  132
+compare counts:  159
+CK's length:  14
+compare counts:  13
+CK's length:  0
+                               Time(s): 87.53499718699999   
+           number of frequent itemsets: 36078               
+
+
+                            Test count: 2
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.01                
+
+Raw Apriori
+C1's length:  77
+compare counts:  5112
+Ck's length:  2556
+compare counts:  32616
+Ck's length:  10999
+compare counts:  52646
+Ck's length:  7833
+compare counts:  36586
+Ck's length:  4558
+compare counts:  16077
+Ck's length:  2371
+compare counts:  6329
+Ck's length:  1197
+compare counts:  2478
+Ck's length:  502
+compare counts:  853
+Ck's length:  148
+compare counts:  205
+Ck's length:  26
+compare counts:  29
+Ck's length:  2
+compare counts:  1
+Ck's length:  0
+                               Time(s): 80.74736691700001   
+           number of frequent itemsets: 18075               
+
+Optimized Apriori
+C1's length:  77
+compare counts:  5112
+CK's length:  2556
+compare counts:  23423
+CK's length:  10999
+compare counts:  22217
+CK's length:  7833
+compare counts:  16079
+CK's length:  4558
+compare counts:  9143
+CK's length:  2371
+compare counts:  4801
+CK's length:  1197
+compare counts:  2209
+CK's length:  502
+compare counts:  797
+CK's length:  148
+compare counts:  199
+CK's length:  26
+compare counts:  29
+CK's length:  2
+compare counts:  1
+CK's length:  0
+                               Time(s): 28.50727884700001   
+           number of frequent itemsets: 18075               
+                           
+
+
+                            Test count: 3                   
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.015               
+
+Raw Apriori
+C1's length:  77
+compare counts:  4830
+Ck's length:  2415
+compare counts:  21541
+Ck's length:  6321
+compare counts:  24859
+Ck's length:  3474
+compare counts:  13250
+Ck's length:  1594
+compare counts:  4780
+Ck's length:  719
+compare counts:  1740
+Ck's length:  364
+compare counts:  714
+Ck's length:  166
+compare counts:  275
+Ck's length:  55
+compare counts:  76
+Ck's length:  11
+compare counts:  12
+Ck's length:  1
+compare counts:  0
+Ck's length:  0
+                               Time(s): 17.703606949999994  
+           number of frequent itemsets: 7937                
+
+Optimized Apriori
+C1's length:  77
+compare counts:  4830
+CK's length:  2415
+compare counts:  13613
+CK's length:  6321
+compare counts:  10091
+CK's length:  3474
+compare counts:  5995
+CK's length:  1594
+compare counts:  2929
+CK's length:  719
+compare counts:  1436
+CK's length:  364
+compare counts:  690
+CK's length:  166
+compare counts:  274
+CK's length:  55
+compare counts:  75
+CK's length:  11
+compare counts:  12
+CK's length:  1
+compare counts:  0
+CK's length:  0
+                               Time(s): 8.753560803000013   
+           number of frequent itemsets: 7937                
+                           
+
+
+                            Test count: 4                   
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.02                
+
+Raw Apriori
+C1's length:  77
+compare counts:  4032
+Ck's length:  2016
+compare counts:  14856
+Ck's length:  3686
+compare counts:  13525
+Ck's length:  1918
+compare counts:  5849
+Ck's length:  890
+compare counts:  2124
+Ck's length:  454
+compare counts:  972
+Ck's length:  232
+compare counts:  417
+Ck's length:  88
+compare counts:  129
+Ck's length:  20
+compare counts:  23
+Ck's length:  2
+compare counts:  1
+Ck's length:  0
+                               Time(s): 7.558352505999977   
+           number of frequent itemsets: 4872                
+
+Optimized Apriori
+C1's length:  77
+compare counts:  4032
+CK's length:  2016
+compare counts:  8092
+CK's length:  3686
+compare counts:  5833
+CK's length:  1918
+compare counts:  3324
+CK's length:  890
+compare counts:  1756
+CK's length:  454
+compare counts:  907
+CK's length:  232
+compare counts:  405
+CK's length:  88
+compare counts:  127
+CK's length:  20
+compare counts:  22
+CK's length:  2
+compare counts:  1
+CK's length:  0
+                               Time(s): 4.394230321000009   
+           number of frequent itemsets: 4872                
+                           
+
+
+                            Test count: 5                   
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.025               
+
+Raw Apriori
+C1's length:  77
+compare counts:  4032
+Ck's length:  2016
+compare counts:  10484
+Ck's length:  2319
+compare counts:  8079
+Ck's length:  1153
+compare counts:  2975
+Ck's length:  502
+compare counts:  1009
+Ck's length:  245
+compare counts:  484
+Ck's length:  122
+compare counts:  211
+Ck's length:  45
+compare counts:  63
+Ck's length:  10
+compare counts:  11
+Ck's length:  1
+compare counts:  0
+Ck's length:  0
+                               Time(s): 3.921587508000016   
+           number of frequent itemsets: 3112                
+
+Optimized Apriori
+C1's length:  77
+compare counts:  4032
+CK's length:  2016
+compare counts:  5199
+CK's length:  2319
+compare counts:  3522
+CK's length:  1144
+compare counts:  1821
+CK's length:  488
+compare counts:  907
+CK's length:  236
+compare counts:  469
+CK's length:  121
+compare counts:  202
+CK's length:  42
+compare counts:  55
+CK's length:  7
+compare counts:  6
+CK's length:  0
+                               Time(s): 2.636575979000014   
+           number of frequent itemsets: 3073                
+                           
+
+
+                            Test count: 6                   
+               Numbers of transactions: 1000                
+      Average items of per transaction: 10                  
+            Numbers of different items: 100                 
+                               Min sup: 0.030000000000000002
+
+Raw Apriori
+C1's length:  77
+compare counts:  3660
+Ck's length:  1830
+compare counts:  7938
+Ck's length:  1566
+compare counts:  4933
+Ck's length:  754
+compare counts:  1665
+Ck's length:  356
+compare counts:  781
+Ck's length:  221
+compare counts:  462
+Ck's length:  121
+compare counts:  210
+Ck's length:  45
+compare counts:  63
+Ck's length:  10
+compare counts:  11
+Ck's length:  1
+compare counts:  0
+Ck's length:  0
+                               Time(s): 2.5461517010000136  
+           number of frequent itemsets: 2350                
+
+Optimized Apriori
+C1's length:  77
+compare counts:  3660
+CK's length:  1830
+compare counts:  3578
+CK's length:  1566
+compare counts:  2360
+CK's length:  754
+compare counts:  1278
+CK's length:  356
+compare counts:  775
+CK's length:  221
+compare counts:  454
+CK's length:  117
+compare counts:  192
+CK's length:  39
+compare counts:  50
+CK's length:  6
+compare counts:  5
+CK's length:  0
+                               Time(s): 1.8830064210000046  
+           number of frequent itemsets: 2335                
